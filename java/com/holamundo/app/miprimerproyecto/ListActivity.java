@@ -36,6 +36,12 @@ public class ListActivity extends Activity {
         valores.add(valor);
         valor = new Tweet("Hola","Mundo","09-06-16");
         valores.add(valor);
+        valor = new Tweet("Hola","Mundo","09-06-16");
+        valores.add(valor);
+
+        valor = new Tweet("Hola","Mundo","09-06-16");
+        valores.add(valor);
+
 
         valor = new Tweet("Hola","Mundo","09-06-16");
         valores.add(valor);
